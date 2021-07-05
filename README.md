@@ -8,5 +8,6 @@ NPM / Jest test runner
 
 ## Run the app
 - Git clone
+- Git switch quest-3
 - npm install 
 - npm run start
